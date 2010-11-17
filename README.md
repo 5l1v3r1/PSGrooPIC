@@ -1,8 +1,7 @@
-PSGroove
+PSGrooPIC
 ========
 
-This is the PSGrooPIC, an open-source reimplementation of the psjailbreak exploit for
-PIC18F microcontrollers.
+PSGrooPIC is an open-source reimplementation of the psjailbreak exploit for PIC18F microcontrollers.
 
 It is known to work on:
 
@@ -21,7 +20,7 @@ It is known to work on:
 
 **This software is not intended to enable piracy. This software is intended to allow the execution of unsigned third-party apps and games on the PS3.**
 
-No one involved in maintaining the psgroopic git is responsible for or has any involvement with any existing usb dongles sporting "psgroove" / "psgroopic" in its name. Thank you for your understanding.
+No one involved in maintaining the PSGrooPIC git is responsible for or has any involvement with any existing usb dongles supporting "psgroove" / "psgroopic" in its name. Thank you for your understanding.
 
 
 Cloning
@@ -46,7 +45,7 @@ Make should now work as expected and use the precompiled PL3 payloads.
 Configuring
 -----------
 
-This version of PSGrooPIC has been modified to directly use PL3 payloads instead of a single hardcoded Payload for much greater flexiblity.
+This version of PSGrooPIC has been modified to directly use PL3 payloads instead of a single hardcoded Payload for much greater flexibility.
 
 
 Building
@@ -55,6 +54,15 @@ Building
     make clean
     make
 
+	
+Programming
+--------
+
+You can burn your .hex file on:
+
+DIY Board (No Bootloader): http://psgroopic.blogspot.com/p/psgroopic-v1x-diy.html
+BEEPIC (Bootloader): http://psgroopic.blogspot.com/p/psgroopic-beepic.html
+	
 
 Using
 -----
