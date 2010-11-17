@@ -4,7 +4,6 @@
 
 /////////////////////////
 // Bootloader Memory Space
-// Define your bootloader here
 // BEEPIC USB HID Bootloader
 #if defined (BOOTLOADER)
    #define CODE_START   0x1000
