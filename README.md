@@ -60,8 +60,8 @@ Programming
 
 You can burn your .hex file on:
 
-DIY Board (No Bootloader): http://psgroopic.blogspot.com/p/psgroopic-v1x-diy.html
-BEEPIC (Bootloader): http://psgroopic.blogspot.com/p/psgroopic-beepic.html
+* [[BEEPIC (Bootloader)|http://psgroopic.blogspot.com/p/psgroopic-beepic.html]]
+* [[DIY Board (No Bootloader)|http://psgroopic.blogspot.com/p/psgroopic-v1x-diy.html]]
 	
 
 Using
