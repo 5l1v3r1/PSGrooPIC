@@ -58,10 +58,7 @@ Building
 Programming
 --------
 
-You can burn your .hex file on:
-
-* [[BEEPIC (Bootloader)|http://psgroopic.blogspot.com/p/psgroopic-beepic.html]]
-* [[DIY Board (No Bootloader)|http://psgroopic.blogspot.com/p/psgroopic-v1x-diy.html]]
+Burn your .hex file on a [[BEEPIC (Bootloader)|http://psgroopic.blogspot.com/p/psgroopic-beepic.html]] or in a [[DIY Board (No Bootloader)|http://psgroopic.blogspot.com/p/psgroopic-v1x-diy.html]]
 	
 
 Using
